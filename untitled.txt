@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Pay Wallet</title>
+<style>
+body{
+font-family:Arial;
+background:#f2f2f2;
+text-align:center;
+}
+.card{
+background:white;
+width:300px;
+margin:auto;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+button{
+background:green;
+color:white;
+padding:10px;
+border:none;
+border-radius:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+<h2>My Pay Wallet</h2>
+
+<input type="text" placeholder="Mobile Number"><br><br>
+<input type="password" placeholder="Password"><br><br>
+
+<button>Login</button>
+
+<p>New user?</p>
+<button>Register</button>
+
+</div>
+
+</body>
+</html>
+💰 MONEY EARNING GT
+Earn Daily With Referral
+https://yourwebsite.com/register?ref=8853087048
+<h2>Your Referral Link</h2>
+
+<input type="text" value="https://yourwebsite.com/register?ref=12345">
+
+<p>Share this link and earn ₹10 per referral</p>8x
